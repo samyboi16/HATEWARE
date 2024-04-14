@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIFESAVER", "LIFESAVER\LIFESAVER.csproj", "{BEB8BCE6-F2F9-461D-B1B9-1F92914AF7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB8BCE6-F2F9-461D-B1B9-1F92914AF7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB8BCE6-F2F9-461D-B1B9-1F92914AF7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB8BCE6-F2F9-461D-B1B9-1F92914AF7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB8BCE6-F2F9-461D-B1B9-1F92914AF7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628EE49C-6E02-41EF-865E-3527E4CEFA1D}
+	EndGlobalSection
+EndGlobal
